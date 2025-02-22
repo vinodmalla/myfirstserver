@@ -34,12 +34,6 @@
   },
   "devDependencies": {
     "react-router-dom": "^7.2.0"
-  },
-  "dependencies": {
-  "react": "^18.0.0",
-  "react-dom": "^18.0.0",
-  "react-scripts": "^5.0.1",
-  "react-router-dom": "^7.2.0"
-}
+  }
 
 }
